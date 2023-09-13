@@ -15,7 +15,7 @@ Speech library for Arduino
 ![Badge Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=ArminJo_Talkie)
 <br/>
 <br/>
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+[![Suport my research]](https://www.tieflab.tech/tiefhardwarelab)
 
 Available as [Arduino library "Talkie"](https://www.arduinolibraries.info/libraries/talkie).
 
