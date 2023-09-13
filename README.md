@@ -1,7 +1,6 @@
-# Talkie Tief Hardware Lab
 <div align = center>
 
-# [Talkie](https://github.com/tiefhardwarelab/Talkie)
+# [Talkie](https://github.com/ArminJo/Talkie)
 Speech library for Arduino
 
 [![Badge License: GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -15,7 +14,7 @@ Speech library for Arduino
 ![Badge Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=ArminJo_Talkie)
 <br/>
 <br/>
-[![Suport my research]](https://www.tieflab.tech/tiefhardwarelab)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 Available as [Arduino library "Talkie"](https://www.arduinolibraries.info/libraries/talkie).
 
